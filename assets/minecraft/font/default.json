@@ -3,10 +3,10 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/title.png",
-            "ascent": 8,
-            "height": 64,
+            "ascent": 7,
+            "height": 8,
             "chars": [
-                ""
+                "\uE000"
             ]
         }
     ]
