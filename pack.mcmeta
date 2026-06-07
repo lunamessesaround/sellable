@@ -1,7 +1,6 @@
 {
     "pack": {
-        "min_format": 17,
-        "max_format": 88,
+        "supported_formats": [17, 88],
         "description": "nothing"
     }
 }
