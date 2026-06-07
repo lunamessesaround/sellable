@@ -17,7 +17,7 @@ jobs:
     - name: Create / update release
       uses: softprops/action-gh-release@v1
       with:
-        tag_name: v1.0
+        tag_name: v2.0
         name: Latest
         files: project.zip
       env:
