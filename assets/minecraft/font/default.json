@@ -2,11 +2,11 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "font/title.png",
+            "file": "text/title.png",
             "ascent": 33,
             "height": 52,
             "chars": [
-                "\uE000"
+                "\ue000"
             ]
         }
     ]
